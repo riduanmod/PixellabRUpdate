@@ -17,5 +17,5 @@
   "telegram_link": "https://t.me/ChannelLinkBox",
   "update_link": "https://t.me/ChannelLinkBox",
   "dialog_exit_on_false": true,
-  "show_update": false
+  "show_update": true
 }
