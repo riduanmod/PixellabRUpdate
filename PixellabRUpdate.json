@@ -1,5 +1,5 @@
 {
-  "version_code": 2,
+  "version_code": 2003,
   "title_update": "Update Available",
   "title_made_by": "Pixellab R",
   "title_color": "#FF0000",
@@ -16,6 +16,6 @@
   ],
   "telegram_link": "https://t.me/ChannelLinkBox",
   "update_link": "https://t.me/ChannelLinkBox",
-  "dialog_exit_on_false": false,
-  "show_update": false
+  "dialog_exit_on_false": true,
+  "show_update": true 
 }
